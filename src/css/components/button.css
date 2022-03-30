@@ -1,0 +1,33 @@
+.button__first{
+    margin-top:250px;
+    margin-left:800px;
+}
+
+.button__second{
+    margin-left:800px;
+    margin-top:50px;
+}
+
+.button{
+    border-radius: 20px;
+    padding: 15px 20px;
+}
+
+
+.button__inscription{
+    background-color: var(--jaune);
+    color:var(--noir);
+    margin-right:10px;
+
+}
+
+.button__site{
+    background-color: var(--bleu-foncé);
+    padding:15px 40px;
+    margin-right:200px;
+}
+
+.button__information{
+    background-color: var(--noir);
+    margin-left:70px;
+}

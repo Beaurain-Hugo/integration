@@ -1,0 +1,23 @@
+:root{
+/* Color styles */
+--bleu-foncé: rgba(14, 22, 141, 1);
+--bleu-clair: rgba(55, 65, 185, 1);
+--jaune: rgba(241, 244, 165, 1);
+--noir: rgba(0, 0, 0, 1);
+--gris-foncé: rgba(35, 35, 35, 1);
+--gris: rgba(237, 237, 237, 1);
+--blanc: rgba(255, 255, 255, 1);
+
+/* Text-size styles */
+/* base size: body (16px) */
+--heading-1: 4.5rem;
+--heading-2: 4rem;
+--heading-3: 2.25rem;
+--body: 1rem;
+--button: 2.5rem;
+
+/* Text-font styles */
+--font-serif: 'League Gothic';
+--font-body: 'Nunito Sans';
+--font-button:'Dosis';
+}

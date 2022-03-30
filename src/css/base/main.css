@@ -1,0 +1,40 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+
+h1, h2, h3{
+    font-family: var(--font-serif);
+    color: var(--noir);
+}
+
+h1{
+    font-size: var(--heading-1);
+}
+
+h2{
+    font-size: var(--heading-2);
+}
+
+h3{
+    font-size: var(--heading-3);
+    margin-left:150px;
+    margin-top:0;
+    padding-top:37px;
+}
+
+p{
+    font-family: var(--font-body);
+    font-size: var(--body);
+    margin-left:150px;
+}
+
+a{
+    font-family:var(--font-button) ;
+    font-size: var(--button);
+    color:var(--gris);
+    text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.page__jv{
+    background-color: var(--bleu-clair);
+    padding-bottom:25px;
+}
+
+.page__jv--title{
+    color: var(--blanc);
+}
+
+.page__jv--para{
+    color: var(--blanc);
+}
