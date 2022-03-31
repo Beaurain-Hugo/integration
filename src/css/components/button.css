@@ -1,11 +1,11 @@
 .button__first{
-    margin-top:250px;
-    margin-left:800px;
+    margin-top:15REM;
+    margin-left:50REM;
 }
 
 .button__second{
-    margin-left:800px;
-    margin-top:50px;
+    margin-left:50REM;
+    margin-top:3rem;
 }
 
 .button{
@@ -17,17 +17,17 @@
 .button__inscription{
     background-color: var(--jaune);
     color:var(--noir);
-    margin-right:10px;
+    margin-right:0.625REM;
 
 }
 
 .button__site{
     background-color: var(--bleu-foncé);
     padding:15px 40px;
-    margin-right:200px;
+    margin-right:12.5rem;
 }
 
 .button__information{
     background-color: var(--noir);
-    margin-left:70px;
+    margin-left:4.9rem;
 }

@@ -23,7 +23,7 @@ h2{
 
 h3{
     font-size: var(--heading-3);
-    margin-left:150px;
+    margin-left:9REM;
     margin-top:0;
     padding-top:37px;
 }
@@ -31,7 +31,7 @@ h3{
 p{
     font-family: var(--font-body);
     font-size: var(--body);
-    margin-left:150px;
+    margin-left:9REM;
 }
 
 a{
