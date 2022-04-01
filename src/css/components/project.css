@@ -1,3 +1,4 @@
 .page__project{
-    background-color: var(--gris);    
+    background-color: var(--gris);
+    padding-bottom:1REM; 
 }
